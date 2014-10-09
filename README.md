@@ -1,4 +1,5 @@
 Store
 =====
 
-Creating my first repository 
+
+This is the would be quick test, first edit :)
